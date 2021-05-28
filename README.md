@@ -1,7 +1,9 @@
 # swarm_script
 此脚本完全根据官方教程修改完善，安全绿色无公害，随意修改转发.
+
 官方文档：https://docs.ethswarm.org/docs/installation/docker/
-也可以使用自己的机器，没有机器可以租用主机，不强制租用
+
+可以使用自己的机器，没有机器可以租用主机
 
 1.先注册 https://billing.raksmart.com/whmcs/aff.php?aff=3416
 
