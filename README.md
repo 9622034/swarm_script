@@ -9,7 +9,9 @@
 
 2.购买主机：推荐L5630，双CPU，16G内存，480G SSD，1 IP，大陆优化，100M/不限； 直达链接：https://billing.raksmart.com/whmcs/cart.php?a=add&pid=611 可以跑一个节点，稳稳的.
 
-3.如果无货无库存，可以点解优惠链接：https://billing.raksmart.com/whmcs/index.php?rp=/announcements/6/E3-123030plusVPS-199.html 里面很多主机 ，选1T固态的主机就行 然后用root登录安装环境,依次执行如下命令
+3.如果无货无库存，可以点解优惠链接：https://billing.raksmart.com/whmcs/index.php?rp=/announcements/6/E3-123030plusVPS-199.html 里面很多主机 ，选1T固态的主机就行 
+购买高配置主机，比如4T固态盘的主机，找我免费部署单机多节点.4T固态目前可以部署40个左右.
+然后用root登录安装环境,依次执行如下命令
 
 apt update
 
