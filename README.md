@@ -3,7 +3,7 @@
 
 官方文档：https://docs.ethswarm.org/docs/installation/docker/
 
-可以使用自己的机器，没有机器可以租用主机
+可以使用自己的机器，没有机器可以租用主机，系统使用ubuntu18.04
 
 1.先注册 https://billing.raksmart.com/whmcs/aff.php?aff=3416
 
