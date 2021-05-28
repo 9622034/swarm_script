@@ -22,3 +22,5 @@ cd swarm_script
 ./create_docker.sh
 
 结束，到此创建完毕.
+
+不懂可以加我vx：liuzi2525 注明swarm 
