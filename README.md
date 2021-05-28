@@ -1,4 +1,8 @@
 # swarm_script
+此脚本完全根据官方教程修改完善，安全绿色无公害，随意修改转发.
+官方文档：https://docs.ethswarm.org/docs/installation/docker/
+
+
 1.先注册 https://billing.raksmart.com/whmcs/aff.php?aff=3416
 
 2.购买主机：推荐L5630，双CPU，16G内存，480G SSD，1 IP，大陆优化，100M/不限； 直达链接：https://billing.raksmart.com/whmcs/cart.php?a=add&pid=611 可以跑一个节点，稳稳的.
