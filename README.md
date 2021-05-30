@@ -34,3 +34,20 @@ cd swarm_script
 结束，到此创建完毕.
 
 不懂可以加我vx：liuzi2525 注明swarm 
+
+
+查看连接数：
+curl -s http://127.0.0.1:1635/peers | jq
+
+查看支票合约地址：
+curl 127.0.0.1:1635/chequebook/address| jq
+
+查看出票数
+./m_cashout.sh 0 0 3
+
+取票：
+./m_cashout.sh cashout-all 5 3
+
+
+
+
