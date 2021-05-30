@@ -43,7 +43,7 @@ curl -s http://127.0.0.1:1635/peers | jq
 curl 127.0.0.1:1635/chequebook/address| jq
 
 查看钱包地址： 接水用的地址
-./eth_address.sh 
+./eth_addr.sh 
 
 查看出票数
 ./m_cashout.sh 0 0 3
