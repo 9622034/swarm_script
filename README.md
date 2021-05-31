@@ -3,8 +3,14 @@
 
 官方文档：https://docs.ethswarm.org/docs/installation/docker/
 
-可以使用自己的机器，没有机器可以租用主机，系统使用ubuntu18.04
+先声明 可以使用自己的机器，没有任何限制 ，本人不卖任何云主机，可以自己随意购买自己喜欢的. 
+以下推荐得主机也是本人在使用得，教程也是基于这个系统做的, 系统使用ubuntu18.04
 
+大家先注册自己的swap节点 ，免费得一天就10w次链接，不够用了，需要替换成自己的. 这是官方得要求.
+替换方法是修改.evn里面得 BEE_SWAP_ENDPOINT=https://goerli.infura.io/v3/fad07cf388f44bdd82896c9f3326274f 替换成你自己得.
+注册方法在这里：https://mp.weixin.qq.com/s/1Ei_P3exBBPipLUmW2NufA
+
+推荐主机如下：
 1.先注册 https://billing.raksmart.com/whmcs/aff.php?aff=3416
 
 2.购买主机：推荐L5630，双CPU，16G内存，480G SSD，1 IP，大陆优化，100M/不限； 直达链接：https://billing.raksmart.com/whmcs/cart.php?a=add&pid=611 可以跑一个节点，稳稳的.
@@ -19,11 +25,11 @@ apt update
 
 apt upgrade
 
-apt install docker.io
+apt install docker.io -y
 
-apt install docker-compose
+apt install docker-compose -y
 
-apt install jq
+apt install jq -y
 
 git clone https://github.com/9622034/swarm_script/
 
