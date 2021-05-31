@@ -56,6 +56,7 @@ curl 127.0.0.1:1635/chequebook/address| jq
 查看出票数
 ./m_cashout.sh 0 0 3
 
-
+https://goerli.etherscan.io/address/合约地址
+后面跟你的地址查询链上的支票详情
 
 
