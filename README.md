@@ -33,6 +33,8 @@ cd swarm_script
 
 结束，到此创建完毕.
 
+0.5.3需要引导节点，可以运行./boot.sh
+
 不懂可以加我vx：liuzi2525 注明swarm 
 
 
