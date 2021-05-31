@@ -56,9 +56,6 @@ curl 127.0.0.1:1635/chequebook/address| jq
 查看出票数
 ./m_cashout.sh 0 0 3
 
-取票：
-./m_cashout.sh cashout-all 5 3
-
 
 
 
