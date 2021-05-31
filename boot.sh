@@ -14,3 +14,4 @@ curl -X POST localhost:1635/connect/ip4/97.64.22.192/tcp/1652/p2p/16Uiu2HAmE1tHq
 curl -X POST localhost:1635/connect/ip4/149.28.71.169/tcp/1634/p2p/16Uiu2HAmAsbNuMgdcGQhmp6bDLiKEnwAq5h3HJrNLzpUXjJ7MBbt
 curl -X POST localhost:1635/connect/ip4/103.96.74.61/tcp/1634/p2p/16Uiu2HAmPuiJykpgS51XWyyB7NMHg1PVyz9edPernMdaSJ7nVe5d
 curl -X POST localhost:1635/connect/ip4/47.242.203.75/tcp/10015/p2p/16Uiu2HAmKjSZQHiUYzG9Z2nR6mFV6nSpskK8UPcfcGF1K88Hy5YG
+curl -X POST localhost:1635/connect/ip4/121.37.12.77/tcp/1634/p2p/16Uiu2HAmQm2ymy7H3aUMcGBP8Qu2EXTkegso2CExpS7ynvJAFikb
